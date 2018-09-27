@@ -1,0 +1,24 @@
+{
+  "name": "dungeon-crawler",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://readyprogrammer1.github.io/castle-game/",
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-icons-kit": "^1.1.12",
+    "react-native-sound": "^0.10.9",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.5",
+    "react-sound": "^1.2.0",
+    "redux": "^4.0.0",
+    "redux-audio": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
